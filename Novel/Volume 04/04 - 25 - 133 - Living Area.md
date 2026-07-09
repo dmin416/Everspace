@@ -1,3 +1,167 @@
-﻿# 133 — Living Area
+# 133 — Living Area
 
----
+*Translator: SFBaka*
+
+Editor: Thor’s Stone
+
+We continued strolling around the new mothership.
+
+By the way, the Skizbrazunil-class mothership Black Lotus was a fairly large ship, but the number of crew required for its operation wasn't large at all. Rather, if one so wishes, they could even operate a ship of its class solo. This is of course the result of really heavy degrees of automation, but I have no idea how or why this extreme concept of reducing human labor was born in this dimension.
+
+SOL was a game in which players could control and play with various ships regardless of their size and class on their own, so it made some form of sense there.
+
+However, it felt a little strange now that I found myself transported to a seemingly real world that's uncannily similar to that game. No matter how developed the concept of automation was in this dimension, it would still be more costly to operate a ship of this size with that alone instead of hiring more crew. It seems Tina and Whisker were familiar with the reason for this though, so I'll try asking them later.
+
+"This is the break room."
+
+Sara turned toward us with a confident smile on her lips.
+
+The break room was pretty large. It should be comparable in size to a traditional Japanese inn's banquet hall. Kids can run around without any problems within it.
+
+"Uwaah, it's so big!"
+
+"Certainly. I find Krishna's dining room comfy enough, but this ship's break room really has that relaxing vibe going for it huh. Ara, I see there's a terrarium over there."
+
+After saying so, Elma walked toward the botanical terrarium in a corner of the break room. Apparently, a part of the wall surface was made with a large glass pane, and a section which recreated a small scale natural environment was placed behind it. Oh, this is one of those huh. Zoos had animals like iguanas and such living in such enclosures as well.
+
+But now that I got a good look at it, it seems there's nothing inside apart from plants. It seems it's meant purely for enjoying plant life. I personally think it would have been more interesting if it had animals in it. I soon lost interest, but Mimi and Elma were fairly engrossed in the terrarium.
+
+Mimi was a former colony resident, so she probably hasn't had many opportunities to see any natural plants. As for Elma, she may be feeling an affinity for them due to her sensibilities as a nature-loving elf. I'm not too sure about that though.
+
+There were several sets of tables and sofas littered around the break room that looked pretty comfy, as well as drink servers and massage chairs. It certainly lives up to its purpose as a break room.
+
+"The dining room, training room, and shower rooms are all located on this block as well. There's also some unused crew rooms, guest rooms, and a fully stocked medical bay. This is basically the living area of the Black Lotus."
+
+Sara continued guiding us around the facilities located in the living area. The dining room was way larger than Krishna's, and the auto-cooker installed seemed to be a Tetsujin V as well. There's plenty of room for three people in Krishna's dining room, but this one may be more comfortable if we dine with five people since Tina and Whisker will be joining us as well.
+
+Also, this ship's training room was a lot larger than Krishna's, so you won't feel constrained at all. It also had training equipment that's not available on Krishna, and because it's wide, three people can easily train inside together. Krishna's training room was on the narrow side, so it felt a bit cramped when the three of us trained there simultaneously.
+
+It may be better to use this training room, bathe in the shower room, and have meals in this ship's dining room every morning from now on. The break room was also quite large and looked very relaxing. And also, Mimi and Elma seem to like that terrarium a lot. Was it automatically maintained just like what we saw on the food production factory tour? I wonder if it is. If not, those plants will eventually wilt and dry up.
+
+"Let's proceed to the cockpit then, everyone."
+
+After having our fill looking around the living area, we finally headed for the cockpit.
+
+"Hmm, a ship's cockpit really is quite large as well huh."
+
+It wasn't as much as the break room, but it was still fairly wide. This place could easily house ten people with some room to spare. Unlike Krishna, Black Lotus' cockpit was not placed near the front end of the ship, but near the center instead. So it might be more appropriate to call it a bridge rather than a cockpit.
+
+"I will basically sit in this seat and take full control of the ship during operations."
+
+May pointed toward a seat that had various option parts attached. There were a lot of terminals I didn't know the use of surrounding it. It didn't look like a regular pilot seat at all.
+
+"That's a very bulky-looking seat."
+
+"Yes. It's a custom pilot seat that takes full advantage of the processing power of the positron brain installed inside me. I can control the ship's propulsion systems, weaponry, power flow, and life support entirely from this seat."
+
+"I see. You won't have any problems grasping the system?"
+
+"No, it would be no problem at all, Master. I can gain complete mastery of the system in five minutes."
+
+"I see, I'll leave this ship to you then, May."
+
+"Yes, please rest assured, Master."
+
+May gave me a crisp nod. I probably don't have to worry about anything now that May's in charge of this ship.
+
+"With this, the guided tour is finished. Is there anything you wish to point out before we complete the handover?"
+
+"I'm good. How about you guys?"
+
+"I'm fine with it as well."
+
+"Me too."
+
+"There are no problems."
+
+It looks like we're all in agreement.
+
+"Well then, if you would please sign here. There we go."
+
+I took the tablet terminal handed by Sara and authenticated the electronic receipt. With this, the Black Lotus was officially ours. After this, the rest of the payment will be transferred to Space Dwerg's account as well. Business complete. After confirming the payment, Sara heaved a sigh of relief. This deal seemed to have caused her a great amount of trouble after all. The main cause was those two sisters back at the hangar.
+
+Me? I didn't really want to cause trouble myself. Sara did get wrapped up in a mess after she got involved with me, but it's not like I knew it would turn out like that y'know. It can't be helped. I'm not at fault here.
+
+"You've really taken good care of us, Sara. Thanks."
+
+"No, it was no trouble...... Well, maybe I did need to put on some extra effort."
+
+Sara probably meant to say that it was no trouble at all on reflex, but after remembering what she went through, she held back her words. Man, it looks like we really stressed her out. You've got it hard, Sara-san.
+
+"This has been an eye-opening experience for me as well. Let me thank you once again, Hiro-sama."
+
+"Likewise. I do share part of the blame for your troubles so, um, sorry about that."
+
+"No, it's not your fault at all, Hiro-sama...... Ufufufu."
+
+Maybe she remembered the sisters. Sara's smile turned dark. The sisters were now like quasi-crew members of our ship, so can you please withdraw that black aura, Sara-san? Calm down. Calm down, good lady. Why are you filled with so much malice? Uh, I guess it's no surprise though.
+
+"Hahaha...... Well, those two suffered from their punishment already, and they would be engaging in dangerous mercenary work from now on."
+
+"That's right, isn't it? Well, I guess it's no good to dwell on the past further."
+
+I don't know if my words had any effect, but for the time being, the black aura surrounding Sara subsided. That's for the best.
+
+"Anyway, I plan on sticking around in this colony for the time being in order to take Black Lotus for some trial runs. Maybe we'll end up discovering some concerns after the trials. I'll contact you again if it turns out that way."
+
+"Yes, please do contact us right away if that happens. We at Space Dwerg are looking forward to a great working relationship with you."
+
+Sara then displayed a sunny smile on her child-like face.
+
+"And so, we're going for a test run guys."
+
+"Aye, aye sir!"
+
+"Yeah, alright. Are your preparations done over there, May?"
+
+『Yes, Elma-sama. We can depart anytime.』
+
+It's been thirty minutes since Sara left. I, Mimi, and Elma were preparing to leave port in Krishna's cockpit. We are going to dock inside Black Lotus immediately, and train the launch procedures when sortieing from Black Lotus later on. We'll have to perform some joint training exercises as well. I want to get used to cooperating with May and the Black Lotus as soon as possible. She should be fully capable of making things work out by matching my timing herself, but that is that and this is this.
+
+It was decided that Tina and Whisker won't participate actively during operations unless circumstances required them to. For example, if something happened to Black Lotus which May can't handle alone. They were instructed not to intervene in communications during battle unless an emergency or something unusual happens, such as engine failure, or someone secretly infiltrating the ship.
+
+However, their assistance would be valuable during docking and launching from the Black Lotus, so they can open a comm line in those instances as well. Well, I don't think we'll encounter any situation that would require us to dock inside the ship in the middle of battle anyway.
+
+"Okay then, we'll meet up at an area a few clicks away from the colony and perform training exercises. Please mark the coordinates."
+
+"Yes. I've marked the coordinates on the nav."
+
+『I've marked the coordinates as well. I will now apply for departure clearance.』
+
+"I will apply for clearance as well."
+
+Mimi quickly applied for departure clearance from Brad Prime's port admin bureau, and the application was promptly approved. Brad Prime colony is teeming with activity today as well. I advanced the ship while being careful not to accidentally crash with others along the way. Black Lotus lined up beside us before long.
+
+"Un, it feels great. I'm getting really excited."
+
+"Looking at it like this...... It feels bigger than the medium-sized pirate ship we faced a few days ago."
+
+"That's right. It's skimming the line between medium and large-sized ships."
+
+The majestic bulk of the Black Lotus was the exact opposite of its graceful-sounding name. Even though it had some nice curves, its appearance can still only be described as rugged. The protruding armor sections concealing the cannon turrets and missile pods contributed to that impression as well. If I were to describe it, it's like a firmly sheathed sword that was concealing its razor-sharp blade.
+
+...Uh, no, sorry. I was trying to act cool just now. My true impression is that it's like a rugged-looking black-suited guy with epic biceps and pecs. The one who works for dangerous and shady people and would immediately reach out for 'insurance' underneath his suit at the slightest sign of trouble. The description was quite apt since those concealed weapon systems afforded it with firepower rivaling a military cruiser.
+
+"......It sure is bulky. It's employing concealed weaponry, but will we really be able to fool anyone with this?"
+
+"I guess it won't look suspicious from a distance. It would probably work out just fine."
+
+"Really?"
+
+Well, most pirates were stupid anyway, so I guess it's fine. If they bite the bait and swarm the Lotus only for Krishna to jump out of it, I'm sure they'd be shocked out of their wits. And once the Lotus reveals all its firepower, they'd surely lose it in despair.
+
+"It looks like Black Lotus is ready for departure."
+
+"Gotcha. Let’s head for the designated coordinates then."
+
+"Yes. Initiating synchronization with Black Lotus."
+
+Mimi started synching Krishna and Black Lotus' FTL Drives. Since Black Lotus was far heavier of a ship, Krishna will end up piggybacking on it.
+
+『We will now head to the specified coordinates via FTL Drive. FTL Drive, charging start. Countdown.』
+
+We heard May perform a countdown from the comms.
+
+『5, 4, 3, 2, 1...... FTL Drive, activate.』
+
+With a loud boom, Krishna and Black Lotus accelerated at the speed of light.

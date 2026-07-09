@@ -1,3 +1,115 @@
-﻿# 122 — Dwarven Shopping Street
+# 122 — Dwarven Shopping Street
 
----
+*Translator: SFBaka*
+
+Editor: Thor’s Stone
+
+『I'm finished on my end. I left May and Tina with an errand though. How about you guys?』
+
+I sent the message via group chat and started walking around while waiting for a reply. The three of them were supposed to be shopping around, so maybe they were in a section of the trade and commerce block where there were a lot of food and lifestyle shops.
+
+"What should I do about those two?"
+
+I also thought about what to do with Tina and Whisker as I was walking around.
+
+Having some pro engineers and mechanics around was a very desirable prospect, especially in our case. I'd feel more assured if there were people who can handle most sorts of mechanical trouble as we continue traveling around the galaxy.
+
+The most worrying problem was the possibility of those two getting access to my and Krishna's secrets through accessing the ship's database during maintenance. And then, they may opt to send that data directly to Space Dwerg.
+
+But maybe there's actually no need to worry so much about stuff like that happening. Krishna and the new mothership's data protection measures will be handled by May after all. I'm sure she'll be able to block any attempts to pull out classified data from the databanks if those two ever decided to pull something like that off. And she'll report it to me immediately as well.
+
+If that happens, what would I do? No matter how cute they were, I have no intention of letting such bloodsucking insects stay anywhere near me. I'd probably crush them or abandon them along the way. I'd probably strike out at their company too. Thoroughly.
+
+Well, those are the most logical courses of action, but I kind of doubt I'd be able to put something like that into practice for real. Tina's personality isn't something I particularly dislike either. It's a bit annoying but quite refreshing at the same time. It's kind of relaxing in a sense to be around that sort of person.
+
+I can't say much about Whisker since I haven't spent much time with her yet, but I feel she was a bit miserable. I can easily imagine how much trouble that sister of hers has put her through. She was even dragged around by her sister last night to participate in her scheme. Maybe she was just the type who finds it difficult to refuse her loved ones...... I still can't say for sure though.
+
+Anyway, when it comes to deciding whether or not to accept the two of them into the crew, I had to weigh the merits of having pro engineers on board against the possibility of my and Krishna's secrets leaking out to a third party.
+
+The info about me and Krishna will probably become known to other people eventually if we continue to travel around the galaxy doing mercenary work. It would be best if I could keep a tight lid on those as much as I could, but being on guard all the time sounds far too stressful.
+
+I don't really care about keeping such things secret in the first place if I were being honest. I don't plan on stopping from being a mercenary after all. In other words, I'd probably get into more escapades along with Krishna. If that's the case, then no matter how excellent Krishna was and how skilled I was as a pilot, Krishna still had a good chance of breaking down eventually without proper maintenance because it was, in the end, a machine. The only way to prevent that was by having skilled mechanics take a look at it and perform regular maintenance.
+
+In other words, no matter how much I wanted to prevent anyone from touching Krishna due to the risk of info leaks, I'd still have no other choice but to leave it in other's hands from time to time. If I end up losing Krishna due to me stubbornly refusing to let those secrets leak out, that'll be a case of putting the cart before the horse. In that case, it would be better to ensure I could rely on Krishna for a long time through periodic maintenance by skilled mechanics without caring so much about keeping secrets. At least that's what I think.
+
+There would be no problems if Krishna actually didn't need maintenance and could maintain peak performance indefinitely. But since this world isn't a game, machines will eventually deteriorate, and that deterioration will be even faster if you rely on them heavily. As long as I plan on continuing to fight using Krishna, I'd have to compromise eventually.
+
+"Oops."
+
+I was lost in thought and didn't notice that I've already arrived at the trade and commerce block. I took out my portable data terminal once more and checked the messaging app.
+
+『Right now, we're telling Whisker-san all she needs to know when she boards the ship with her sister. It will probably take a bit more time.』
+
+"I still haven't decided whether or not to let them join though."
+
+I muttered such a complaint, but it's true that I was heavily leaning on letting them board as well. That's because the merits of them boarding the ship and joining the crew outweigh the demerits. But it would still be best to discuss this matter with Elma, Mimi, and May. I'm the one who will have the final say, but I can't ignore their opinions as crew members.
+
+『Understood. I'm going to wander around the colony a bit then.』
+
+I sent out the message and walked around while setting aside those complicated issues for the time being. There were many handicrafts being sold at stores. It's probably because this was a colony with plenty of dwarves. Or rather, there were many stores that were selling handicrafts that also looked pointlessly high-tech.
+
+For example, there was a wooden avant-garde sculpture that was actually an auto-cooker in disguise, a decorative laser gun holster, or shoulder pads that had spikes on them. No, wait... What's with those shoulder pads anyway? Armor...? Fashion items...? A cosplay item that allows you to dress up like the end of the century thugs and go 'Hyahaaa'!?
+
+"Oh, you have a good eye for these things, brother. This here is a nice, high-quality thermal cloak."
+
+A dwarf store clerk called out to me as I was checking out the shoulder pads. He had a full beard so I couldn't place his age, but he sounds younger than he looks.
+
+"Thermal cloak? This thing? This is a cloak?"
+
+No matter how you slice it, these are just Hyahaa! pads though. There's no resemblance to a cloak at all.
+
+"That's right. We had a hard time developing them so they wouldn't look like your typical cloak at first glance. If you put one of these on your shoulder and switch it on, it will allow you to comfortably cope with temperatures ranging from minus 50 degrees to plus 50 degrees Celsius."
+
+"That sounds impressive. What's the power source?"
+
+So these things can allow you to spend all year wearing just T-shirts and shorts huh? That's kinda amazing. If they didn't look like spiked shoulder pads, I would have bought one for myself.
+
+"They use one energy pack at a time. One pack can allow them to function for 20,000 hours."
+
+20 thousand hours huh. So that'll be about 833 days. So two energy packs will allow them to work for more than two years huh. Yep. Amazing alright.
+
+"How much are they?"
+
+"Mm, we had trouble modifying them after all. They are actually newly developed products you see. Let's see... 3,000... No, how about 2,500 Enels for one?"
+
+"O-Okay......"
+
+I can easily buy one at that price, but the appearance is a bit...... I kinda feel like I'd be forced to shout Hyahaa! if I wear one of these. Maybe I'll even get a Mohawk haircut without me noticing until it's too late. Uh, nope. Not happening. That's not a pretty picture by any stretch of the imagination.
+
+I actually have a pretty built body right now due to my daily workouts, but I wasn't like those macho bodybuilders. I had a leaner physique. These shoulder pads would probably look better on men with bodybuilder physiques.
+
+"I don't think they suit me, so I'll pass. But since I'm already here, do you have non-modified versions of these thermal cloaks?"
+
+"We do. Those are 800 Enels a piece. One energy pack can power them for 30,000 hours. A cloak that covers most of the body is more energy efficient after all."
+
+After saying so, the dwarven store clerk brought out a hooded cloak made of an unfamiliar material that had a mysterious texture. It was all-white and felt like a cross between vinyl and leather.
+
+"Do you have these in more inconspicuous colors?"
+
+This is far too flashy for me.
+
+"Oh, do you prefer a cloak with the chameleon system? Here you go then. These chameleon thermal cloaks are 1,200 Enels per item."
+
+He then brought out a dark brown cloak with a rough texture. The clerk fiddled with the clasp on the cloak and its color changed to a gray urban camouflage pattern.
+
+"Hm. This looks good."
+
+"Doesn't it? But these have a better design though. I'm sure it'll suit you, brother."
+
+The clerk then placed one of those spiked shoulder pads on my shoulder. He then made a nice business smile. Just how do these shoulder pads stick themselves on anyway? It's another pointless application of advanced tech.
+
+"No, the chameleon thermal cloaks are fine. Let's see...... I'll need some spares too, so give me five of those."
+
+"You're buying five of them!? Of course, sir! Right away!"
+
+The clerk ran to the back of the store with a cheerful smile on his face. I bought one for me, Elma, and Mimi, plus two spares. Tina and Whisker can also use them if they join the crew. A thermal cloak with a temperature regulation function and a chameleon system that allows it to blend with the surroundings huh...... It may prove useful one of these days. For example, they'll come in handy if we somehow get stuck on a planet with a harsh environment, or when we need to investigate a colony with a broken life support system. There were plenty of those kinds of events in SOL after all. It doesn't hurt to be prepared.
+
+"Hey, mister! We also have great products here! Why don't you take a look?"
+
+"Hey! Don't cut in line! I had my eye on him first. Hey mister, take a look at our wares too why don't cha?"
+
+"Oi, oi! He came to our store first. Come on then, brother. Let's go to the back."
+
+Before I knew it, several dwarven shop clerks already gathered behind me. Hahaha, you guys are really passionate about doing business huh? Also, those female shop clerks at the back. Stop trying to seduce me. No matter what you do, my heart won't be moved since you practically look like children y'know.
+
+But this sure is a mess. In any case, I followed the dwarven shop clerk to the back of the store to complete my purchase.

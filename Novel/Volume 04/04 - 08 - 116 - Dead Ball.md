@@ -1,3 +1,101 @@
-﻿# 116 — Dead Ball
+# 116 — Dead Ball
 
----
+*Translator: SFBaka*
+
+Editor: Thor’s Stone
+
+The delivery of the newly purchased mothership will be in two weeks. Krishna's overhaul will be finished in one week.
+
+Aside from the fact that we need to wait for the mothership to be delivered, Krishna is also in the middle of undergoing a complete overhaul, so in the meantime, we're stuck inside the colony. It's a nice opportunity to take it slow. The suite room is spacious and luxurious. The auto-cooker installed in the dining area is also pretty high-quality so the meals are delicious too. And more importantly, I get to fool around with Mimi, Elma, and May without a care in the world, at least for a little while. What could be better?
+
+So I'm definitely gonna make sure I thoroughly enjoy this.
+
+"A call from the workshop doing the overhaul?"
+
+"Yes. I'm sorry to trouble you during your much-earned rest, Master, but it seems they really need to see you."
+
+We handed over Krishna to the maintenance workshop yesterday noon, and then returned to the hotel. We then spent the entire night flirting around with each other. I was looking forward to even more flirting today as well, but a request like this came up so early in the morning.
+
+"If they have something to ask, then wouldn't it be more appropriate to send over a representative here...?"
+
+"Yes. I also think so. I told them as such as well. Shall I call Sara-san to lodge a formal complaint?"
+
+"Nah... I'll go."
+
+I'm their client, but the other party is composed of those crazy space dwarves y'know. It won't be pretty if I refuse here and end up alienating those finicky artisans. They might even cut corners. Well, I can always lodge a complaint to Sara-san if that ever happened, but it's better to avoid that outcome in the first place. I'd just be fooling around with Mimi and Elma all day if I didn't go anyway.
+
+C'mon guys. That's important y'know. Yes, flirting is very important. But it's also good to refrain from being too clingy. Everything needs a balance, and that's true for the art of flirting as well.
+
+"I'll clean up a bit and head out. Please enter the site location on my terminal's navi app."
+
+"Understood. But wouldn't it be better if I came with you instead?"
+
+"Nah, I'll be fine. I'd like to experience walking around by myself from time to time."
+
+It's a colony filled with space dwarves so maybe they're selling some interesting articles or something. Maybe I can find some melee weapons for power armor use. Y'know, like h**t hawks or vibro-blades. Swords are generally thought of as weapons reserved for the nobles over here after all.
+
+If bladed weapons are out, blunt weapons should be fine too. A giant mace would be good for crushing the armor of enemies. It would be nice if it had a hidden piledriver or something. Man, the dream just keeps expanding. Well, that's all just my wishful thinking, so I might not be able to find anything like those in the end. Oh well.
+
+I freshened up a bit and left the hotel on my lonesome. Mimi was still fast asleep, and Elma drank buckets last night, so she might not wake up until noon. I left May to take care of both of them, so I'm not worried at all. It's times like these that let me appreciate May's presence even more. She's very dependable.
+
+"Uh, so it should be right past here..."
+
+I checked the route displayed on my portable terminal as I walked. This is also prepared by May. Man, May's really taking care of me a lot huh. Somehow, I had a vision of Mimi growling cutely in dissatisfaction, but I'm sure it's just my overactive imagination.
+
+I continued to navigate around the colony interior with a low ceiling. I have to prioritize showing up at the workshop, so I'll leave the sightseeing for later. It's still early in the morning, so I don't think the shops selling power armor weapons are open yet.
+
+Along the way, I had to pass near a place that looked like the downtown area, but it totally reeked of alcohol so my face contorted into a grimace. I kinda think bringing in large quantities of a volatile substance like alcohol inside a sealed colony might be a recipe for disaster though...... Do they have any special countermeasures in place? Well, maybe they do. It won't be a joke for a fire or explosion to occur inside the colony due to the alcohol after all.
+
+The moment I completely passed the downtown area, the smell of alcohol filling the air completely disappeared.
+
+"!?"
+
+I got surprised, backpedaled a bit, and lo and behold, it reeks of alcohol again. What the heck? What's with this strangely over the top use of cutting edge tech? Was it due to the air conditioning system installed inside here? I can't seem to spot anything that looks conspicuous, but...... I'm dead sure there has to be some sort of advanced device that made this possible. Dwarf tech sure is impressive... or is it? It kinda feels a bit pointless.
+
+It reminds me of an item making use of advanced technology for trivial stuff. Yep. I'm talking about the gravity sphere. It implements space locking and anti-gravity tech only to be used as a glorified tumbler. As for this one, it may be a shield that only blocks the components that make up the smell of booze or something.
+
+"......Let's move on."
+
+After a short while more, I finally reached the maintenance and workshop area. There were appliances such as auto-cookers, weapons such as laser guns and rifles, power armors, as well as various maintenance parts and equipment lined up around the area. So that downtown area earlier is most likely a place for relaxation of the dwarven employees who work here.
+
+"Hm. Maybe I should send in my power armor for an overhaul as well."
+
+I've gotten much use for RIKISHI lately after all. I've been doing regular maintenance on it, but I haven't overhauled it as well ever since coming into this dimension. Maybe it would be best to have pros look at it as well. I'd also like to procure power armor weapons that aren't on the bulky side. The laser launcher was a bit too unwieldy after all. Of course, there are the shoulder-mounted laser guns as well. But those just aren't enough.
+
+I thought about which weapons would be nice for my power armor as I walked until I reached the workshop proper. Since starships are quite large, service areas for them are usually situated inside low-gravity blocks. It's also the same in this colony as well.
+
+Being inside a low-gravity area makes people feel like playing around, but excitedly bouncing to and fro in areas like these are frowned upon by most because of the possibility of accidents. But it truly is quite fun, so lots of colony kids make use of these areas to build makeshift secret bases and such, or so I've heard. Mimi told me she also often sneaked inside low-gravity blocks like this one to play around, only to be scolded by her parents afterward.
+
+You can build up quite a bit of speed while bouncing around inside a low-gravity area like this one, but you also run the risk of accidentally crashing into someone else. That's why you have to be extra careful while going around a low-gravity area like this one. It's hard to kill your momentum in areas like this, so running around recklessly isn't advisable.
+
+So I made sure to proceed carefully myself. Finally, I reached the garage Krishna was taken to yesterday. But...
+
+"What the heck is this?"
+
+I peeked inside and found Krishna completely stripped of its outer hull, with lots of dwarves crawling around it. Some were scanning it with their gadgets, and some were using small hammers to hit sections of the ship as if they were checking for something. The four heavy-caliber laser cannons and two ballistic shot cannons were also removed. The variable armor was also disassembled and was currently being serviced. The manipulator arms the laser cannons were attached to were of particular interest.
+
+And then, a rugged-looking dwarf who seemed to be the leader of the engineering team noticed my presence and turned toward me with excessive vigor.
+
+"The pilot's arrived! Secure him!"
+
+"Eh?"
+
+"Uoooooooh!!!"
+
+"Out of the way! I'll catch em!"
+
+"I'm sorry boys, but we'll be the ones to catch him! Soooi!"
+
+I suddenly found myself getting swarmed by dwarves with strange glints in their eyes, but the female dwarf who reacted a bit late to my presence grabbed her female partner, made a wind-up, and threw her at me with explosive force.
+
+"Waaaaaaaah!?"
+
+"Uoooooooooh!?"
+
+I caught the other female dwarf, who sailed through the air at an amazing speed, but the momentum was too strong, and we got blown away straight out of the workshop.
+
+Or rather, this female dwarf is tiny, but she's actually quite heavy! We barreled through the air until my back hit a wall and got sandwiched by the female dwarf.
+
+"Ugh..."
+
+My body slowly slid down the wall, and the female dwarf was shouting something like 'I caught him!' as she hugged my chest. What the heck...? Why did I have to go through something like this the moment I came here? While thinking of such things, I slowly lost consciousness.
