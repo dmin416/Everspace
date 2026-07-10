@@ -403,180 +403,240 @@ Novel chapter names for building the novel outline. Chapter files live in `Novel
 34. 362 — Pink-colored Poisonous Mental Waves
 35. 363 — I Didn't Lie You Know
 36. 364 — To the Riche System
-37. 365 — HA! NA! SE! (LET! GO! OF ME!)
-38. 366 — Difficult to Describe Tetrahedron
-39. 367 — Close Encounter of the Third Kind
-40. 368 — Intelligent Alien
-41. 369 — Whining and Assault
-42. 370 — Mission Complete
-43. 371 — Waking Up in a Med Pod
-44. 372 — From Here on Out
-45. 373 — It Kinda Feels like Something Similar Happened Before
-46. 374 — Alein Tertius Colony Revisited
-47. 375 — People Person
-48. 376 — Foster Father
-49. 377 — Hostility
-50. 378 — Meeting Up and Tails
-51. 379 — It's Not Like We Have to Resolve Every Problem Ourselves
-52. 380 — The Crafty Schemer Drowns in Their Own Scheme
-53. 381 — Igasek and Kouga Security Services
-54. 382 — Two People in Business Suits
-55. 383 — UwU
-56. 384 — First Time Hiring a Security Service
-57. 385 — I Wonder What Kind of Jutsu is Optical Camouflage?
-58. 386 — That Side and This Side
-59. 387 — A Person Who was Good at Getting Spoiled
-60. 388 — S-san from the Imperial Capital
-61. 389 — As Expected, You Two Really are Siblings!
-62. 390 — It's Not Suitable to Use Me as a Reference
-63. 391 — Avoiding Trouble
-64. 392 — Ambush
-65. 393 — Job
-66. 394 — Granny's Ship
-67. 395 — Battle Start
-68. 396 — Amidst the Explosions
-69. 397 — Stuff to Look Forward to After the Battle
-70. 398 — Drinking with Granny
-71. 399 — Cleaning Up and Next Objective
-72. 400 — Numbers Are My Mortal Enemies
-73. 401 — To The Next Destination
-74. 402 — A Really Sticky Bur (Strength-type)
-75. 403 — Meeting
-76. 404 — Widespread Pandemic
-77. 405 — Deserted Port
-78. 406 — Disastrous Situation
-79. 407 — Reemay Prime Colony
-80. 408 — Steward
-81. 409 — Next Objective
-82. 410 — Grasping the Situation
-83. 411 — Temporary Boarding
-84. 412 — Providing Aid
-85. 413 — Hearing Their Side of the Story
-86. 414 — About 20% is Pure Good Will
-87. 415 — Pirate Hunting
-88. 416 — Victory Drink
-89. 417 — Progress and Sudden Raid
-90. 418 — Let's Get Involved in a Big Way
-91. 419 — Since We're Doing This, Let's Go All Out
-92. 420 — Force Push!
-93. 421 — That's Not It. Please Believe Me.
-94. 422 — A Great Bloodbath
-95. 423 — Emergency Launch
-96. 424 — Pursuit
-97. 425 — We Didn't Hear Anything. Okay?
-98. 426 — Troublesome Matter
-99. 427 — Game Changer
-100. 428 — A Three Year Promise
-101. 429 — It Can Only Be That Fellow
-102. 430 — Daily Routine
-103. 431 — Status Report
-104. 432 — Closed-door Meeting
-105. 433 — Sorting Out the Situation and Presenting a Plan
-106. 434 — Hunting Hounds Have No Time to Rest
-107. 435 — Mercenary Guild — Volks Star System Branch
-108. 436 — Data Analysis and Interesting Fellows
-109. 437 — More Details Regarding Space Pirates
-110. 438 — The Operational Doctrine of the Imperial Space Force
-111. 439 — Sudden Incident
-112. 440 — Are You Really That Bored?
-113. 441 — Standby Duty
-114. 442 — A Person Acting All Pushy
-115. 443 — Serena's Feelings
-116. 444 — Is This an Interrogation?
-117. 445 — House Ixamal's Flagship
-118. 446 — Men of House Ixamal
-119. 447 — Sudden Change
-120. 448 — Leaving Behind Piles of Corpses and Rivers of Blood in My Wake
-121. 449 — Overflowing Power!
-122. 450 — Aftermath
-123. 451 — Bath
-124. 452 — That's Something that Only Happens in Ero-manga, Right? Seriously?
-125. 453 — It's Suddenly Gotten a Bit Too Hot and Humid……
-126. 454 — Isn't It Fine as Long as We Win?
-127. 455 — Some People Sure Are Lucky
-128. 456 — Girl-in-a-Can
-129. 457 — Why Did You Have to Do Something Like That???
-130. 458 — There's A Line I Won't Let Others Cross
-131. 459 — A Highspeed Rotating Drill Hand?
-132. 460 — It's Already a Damn Mess!
-133. 461 — Well, If Push Comes to Shove, We'll Just Deal with the Main Culprit
-134. 462 — 『Hahaha. But It's So Fun, Captain.』
-135. 463 — "I Mean, There's Timing and All Sorts of Other Stuff to Consider, Right?"
-136. 464 — Nah, That Probably Won't Happen, Right……? Ahaha.
-137. 465 — "You'll Wholeheartedly Devote Yourself, Right?" / "Yes……"
-138. 466 — "But Why?"
-139. 467 — 「So I'm Better Than Nothing」
-140. 468 — 「That's Not What I Meant…」
-141. 469 — 「Isn't That a Bit Too Convenient for Me?」
-142. 470 — 「That's not it!」
-143. 471 — 「This Is No Joke. I Mean It.」
-144. 472 — 「There Are Nothing But Problems With That!?」
-145. 473 — 「Don't Jinx It…」
-146. 474 — 「…Is He Always Like This?」
-147. 475 — 「In the End, Violence Is the Best Solution. Everything Is Solved with Violence.」
-148. 476 — 「Hahaha… I-I Have No Idea What You're Talking About.」
-149. 477 — 「It's Not Like We Got Intimate Or Anything…」
-150. 478 — 「Could You Please Stop Being so Intense? It's a Little Scary」
-151. 479 — 「Is This One of Those Situations Where I Can't Refuse?」
-152. 480 — 「Why Is This Happening…?」
-153. 481 — 「Is That How It Works?」
-154. 482 — 「This One is Quite Cute, isn't He?」
-155. 483 — 「Of Course I'm Curious」
-156. 484 — 「I'm Not Dodging Anything」
-157. 485 — 「…Aren't You Going to Put Your Mark on Me?」
-158. 486 — 「Did You Have Fun Last Night?」
-159. 487 — 「Please Don't. That Would Ruin my Reputation」
-160. 488 — 「Ya Got It Tough, Boss」
-161. 489 — Dexer Star System
-162. 490 — 「Is It Always Like This?」
-163. 491 — 「Pretend the Conversation Never Happened?」
-164. 492 — 「…There's More?」
-165. 493 — 「Or so I Thought」
-166. 494 — I Couldn't Resist My Desires
-167. 495 — 「You Really Want to Do it?」
-168. 496 — 「Noble Privileges are… Incredible!」
-169. 497 — 「Wait, You're Joking, Right?」
-170. 498 — 「Alright, Let's Forget About this Topic」
-171. 499 — 「Really? Love, Courage, and Hope, Huh…」
-172. 500 — 「Is that so…? Maybe…?」
-173. 501 — 「Again?」
-174. 502 — 「I Won't Wait」
-175. 503 — 「It's Still Okay…」
-176. 504 — 「If It Doesn't Hurt, You Won't Learn」
-177. 505 — 「Huh? What's That? That Kind of Blasphemous Crop is…」
-178. 506 — 「…Somehow, I Feel Like I've Lost.」
-179. 507 — 「It's Super Duper Intense.」
-180. 508 — 「The Laws of Space… The Laws of Space Are…」
-181. 509 — 「What do You Think I Am?」
-182. 510 — 「Oh, so That's the Fleet of the Holy Vuelzarus Empire」
-183. 511 — 「It's Annoying When You Don't Show Any Reaction」
-184. 512 — 「Is That Thing Trying to Pick a Fight With All the Existences In the Universe?」
-185. 513 — 「No, that didn't even cross my mind…」
-186. 514 — 「Isn't it Just Because Hiro-dono is Shameless?」
-187. 515 — 「I'm Really Sorry」
-188. 516 — 「No, I'll Have to Decline」
-189. 517 — 「What?! Why Not? Help Me Out!」
-190. 518 — 「I Feel Like I've Become a Royal or Something」
-191. 519 — 「I See… So That's Why She Said It's Better Not to Know」
-192. 520 — 「Haha, I'll Head Over There Too.」
-193. 521 — 「I'm Still a Pretty Normal Existence, Aren't I?」
-194. 522 — 「It's Impressive, But I Can't Say I'm Too Thrilled About It…」
-195. 523 — 「I See…」
-196. 524 — 「This Is Way Too Much…」
-197. 525 — 「Quit Screwin' Around, Ya Bastard!」
-198. 526 — 「Line Up!」
-199. 527 — 「A Pretty Luxurious Problem to Have」
-200. 528 — 「Alright, Alright, Is This a Contest or Something?」
-201. 529 — 「It Hath Been Some Time, Hast it Not? 'Tis I ♡」
-202. 530 — 「T-Tail Care…!」
-203. 531 — 「Stop It. I'm Going to Cry」
-204. 532 — 「But If We're Usin' that Comparison, You're Definitely a 'Super Robot' Protagonist Type, Right?」
-205. 533 — 「Understood, Leave It to Me When The Time Comes」
-206. 534 — 「Stop It, Mimi. That Comment Really Hits Home」
-207. 535 — 「I Can't Make Any Promises…」
-208. 536 — 「Did I Overdo It…?」
-209. 537 — 「Please Stop!」
-210. 538 — 「Why Don't You Try It Somewhere Else First?」
+
+## Volume 12
+
+1. 365 — HA! NA! SE! (LET! GO! OF ME!)
+2. 366 — Difficult to Describe Tetrahedron
+3. 367 — Close Encounter of the Third Kind
+4. 368 — Intelligent Alien
+5. 369 — Whining and Assault
+6. 370 — Mission Complete
+7. 371 — Waking Up in a Med Pod
+8. 372 — From Here on Out
+9. 373 — It Kinda Feels like Something Similar Happened Before
+10. 374 — Alein Tertius Colony Revisited
+11. 375 — People Person
+12. 376 — Foster Father
+13. 377 — Hostility
+14. 378 — Meeting Up and Tails
+15. 379 — It's Not Like We Have to Resolve Every Problem Ourselves
+16. 380 — The Crafty Schemer Drowns in Their Own Scheme
+17. 381 — Igasek and Kouga Security Services
+18. 382 — Two People in Business Suits
+19. 383 — UwU
+20. 384 — First Time Hiring a Security Service
+21. 385 — I Wonder What Kind of Jutsu is Optical Camouflage
+22. 386 — That Side and This Side
+23. 387 — A Person Who was Good at Getting Spoiled
+24. 388 — S-san from the Imperial Capital
+25. 389 — As Expected, You Two Really are Siblings!
+26. 390 — It's Not Suitable to Use Me as a Reference
+27. 391 — Avoiding Trouble
+28. 392 — Ambush
+29. 393 — Job
+30. 394 — Granny's Ship
+31. 395 — Battle Start
+32. 396 — Amidst the Explosions
+33. 397 — Stuff to Look Forward to After the Battle
+34. 398 — Drinking with Granny
+35. 399 — Cleaning Up and Next Objective
+36. 400 — Numbers Are My Mortal Enemies
+37. 401 — To The Next Destination
+
+## Volume 13
+
+1. 402 — A Really Sticky Bur (Strength-type)
+2. 403 — Meeting
+3. 404 — Widespread Pandemic
+4. 405 — Deserted Port
+5. 406 — Disastrous Situation
+6. 407 — Reemay Prime Colony
+7. 408 — Steward
+8. 409 — Next Objective
+9. 410 — Grasping the Situation
+10. 411 — Temporary Boarding
+11. 412 — Providing Aid
+12. 413 — Hearing Their Side of the Story
+13. 414 — About 20% is Pure Good Will
+14. 415 — Pirate Hunting
+15. 416 — Victory Drink
+16. 417 — Progress and Sudden Raid
+17. 418 — Let's Get Involved in a Big Way
+18. 419 — Since We're Doing This, Let's Go All Out
+19. 420 — Force Push!
+20. 421 — That's Not It. Please Believe Me.
+21. 422 — A Great Bloodbath
+22. 423 — Emergency Launch
+23. 424 — Pursuit
+24. 425 — We Didn't Hear Anything. Okay
+25. 426 — Troublesome Matter
+26. 427 — Game Changer
+27. 428 — A Three Year Promise
+
+## Volume 14
+
+1. 429 — It Can Only Be That Fellow
+2. 430 — Daily Routine
+3. 431 — Status Report
+4. 432 — Closed-door Meeting
+5. 433 — Sorting Out the Situation and Presenting a Plan
+6. 434 — Hunting Hounds Have No Time to Rest
+7. 435 — Mercenary Guild - Volks Star System Branch
+8. 436 — Data Analysis and Interesting Fellows
+9. 437 — More Details Regarding Space Pirates
+10. 438 — The Operational Doctrine of the Imperial Space Force
+11. 439 — Sudden Incident
+12. 440 — Are You Really That Bored
+13. 441 — Standby Duty
+14. 442 — A Person Acting All Pushy
+15. 443 — Serena's Feelings
+16. 444 — Is This an Interrogation
+17. 445 — House Ixamal's Flagship
+18. 446 — Men of House Ixamal
+19. 447 — Sudden Change
+20. 448 — Leaving Behind Piles of Corpses and Rivers of Blood in My Wake
+21. 449 — Overflowing Power!
+22. 450 — Aftermath
+23. 451 — Bath
+24. 452 — That's Something that Only Happens in Ero-manga, Right Seriously
+25. 453 — It's Suddenly Gotten a Bit Too Hot and Humid…
+26. 454 — Isn't It Fine as Long as We Win
+27. 455 — Some People Sure Are Lucky
+28. 456 — Girl-in-a-Can
+
+## Volume 15
+
+1. 457 — Why Did You Have to Do Something Like That
+2. 458 — There's A Line I Won't Let Others Cross
+3. 459 — A Highspeed Rotating Drill Hand
+4. 460 — It's Already a Damn Mess!
+5. 461 — Well, If Push Comes to Shove, We'll Just Deal with the Main Culprit
+6. 462 — Hahaha. But It's So Fun, Captain.
+7. 463 — I Mean, There's Timing and All Sorts of Other Stuff to Consider, Right
+8. 464 — Nah, That Probably Won't Happen, Right... Ahaha.
+9. 465 — You'll Wholeheartedly Devote Yourself, Right Yes…
+10. 466 — But Why
+11. 467 — So I'm Better Than Nothing
+12. 468 — That's Not What I Meant…
+13. 469 — Isn't That a Bit Too Convenient for Me
+14. 470 — That's not it!
+15. 471 — This Is No Joke. I Mean It.
+16. 472 — There Are Nothing But Problems With That!
+17. 473 — Don't Jinx It…
+18. 474 — ...Is He Always Like This
+19. 475 — In the End, Violence Is the Best Solution. Everything Is Solved with Violence.
+20. 476 — Hahaha... I-I Have No Idea What You're Talking About.
+21. 477 — It's Not Like We Got Intimate Or Anything…
+22. 478 — Could You Please Stop Being so Intense It's a Little Scary
+23. 479 — Is This One of Those Situations Where I Can't Refuse
+24. 480 — Why Is This Happening…
+25. 481 — Is That How It Works
+26. 482 — This One is Quite Cute, isn't He
+27. 483 — Of Course I'm Curious
+28. 484 — I'm Not Dodging Anything
+29. 485 — ...Aren't You Going to Put Your Mark on Me
+30. 486 — Did You Have Fun Last Night
+31. 487 — Please Don't. That Would Ruin my Reputation
+32. 488 — Ya Got It Tough, Boss
+
+## Volume 16
+
+1. 489 — Dexer Star System
+2. 490 — Is It Always Like This
+3. 491 — Pretend the Conversation Never Happened
+4. 492 — ...There's More
+5. 493 — Or so I Thought
+6. 494 — I Couldn't Resist My Desires
+7. 495 — You Really Want to Do it
+8. 496 — Noble Privileges are... Incredible!
+9. 497 — Wait, You're Joking, Right
+10. 498 — Alright, Let's Forget About this Topic
+11. 499 — Really Love, Courage, and Hope, Huh…
+12. 500 — Is that so... Maybe…
+13. 501 — Again
+14. 502 — I Won't Wait
+15. 503 — It's Still Okay…
+16. 504 — If It Doesn't Hurt, You Won't Learn
+17. 505 — Huh What's That That Kind of Blasphemous Crop is…
+18. 506 — ...Somehow, I Feel Like I've Lost.
+19. 507 — It's Super Duper Intense.
+20. 508 — The Laws of Space... The Laws of Space Are…
+21. 509 — What do You Think I Am
+22. 510 — Oh, so That's the Fleet of the Holy Vuelzarus Empire
+23. 511 — It's Annoying When You Don't Show Any Reaction
+24. 512 — Is That Thing Trying to Pick a Fight With All the Existences In the Universe
+25. 513 — No, that didn't even cross my mind…
+26. 514 — Isn't it Just Because Hiro-dono is Shameless
+27. 515 — I'm Really Sorry
+28. 516 — No, I'll Have to Decline
+29. 517 — What! Why Not Help Me Out!
+30. 518 — I Feel Like I've Become a Royal or Something
+31. 519 — I See... So That's Why She Said It's Better Not to Know
+32. 520 — Haha, I'll Head Over There Too.
+
+## Volume 17
+
+1. 521 — I'm Still a Pretty Normal Existence, Aren't I
+2. 522 — It's Impressive, But I Can't Say I'm Too Thrilled About It…
+3. 523 — I See…
+4. 524 — This Is Way Too Much…
+5. 525 — Quit Screwin' Around, Ya Bastard!
+6. 526 — Line Up!
+7. 527 — A Pretty Luxurious Problem to Have
+8. 528 — Alright, Alright, Is This a Contest or Something
+9. 529 — It Hath Been Some Time, Hast it Not 'Tis I
+10. 530 — T-Tail Care...!
+11. 531 — Stop It. I'm Going to Cry
+12. 532 — But If We're Usin' that Comparison, You're Definitely a 'Super Robot' Protagonist Type, Right
+13. 533 — Understood, Leave It to Me When The Time Comes
+14. 534 — Stop It, Mimi. That Comment Really Hits Home
+15. 535 — I Can't Make Any Promises…
+16. 536 — Did I Overdo It…
+17. 537 — Please Stop!
+18. 538 — Why Don't You Try It Somewhere Else First
+19. 539 — Choose Something Tasteful
+20. 540 — Don't Say Things That Make Me Anxious
+21. 541 — Oh, There's so Much to Choose From
+22. 542 — That's Not What I Want to Hear!
+23. 543 — Why Can't I Wiiiiin!
+24. 544 — Huh What's with Those Reactions
+25. 545 — I'm Innocent, I Tell You!
+26. 546 — Is This Some Kind of Harassment
+27. 547 — That's Tyranny!
+28. 548 — I Love Them. Namunamu
+29. 549 — Isn't That a Little Too Low-maintenance…
+
+## Volume 18
+
+1. 550 — Just the Order I Call People in Can Cause That Much Trouble…
+2. 551 — I'll Do My Best. Within Reason.
+3. 552 — ...You've Completely Stopped Being Human Since I Last Saw You, Huh
+4. 553 — Would Ye All Cease Calling Me A Bother, I Pray I Shall Weep, Dost Thou Know
+5. 554 — Hm Fufufu, It's A Maiden's Secret
+6. 555 — Oooon... Why!
+7. 556 — ...Huh Wh-What's with the Sudden Outburst!
+8. 557 — ...That's Quite the Gimmicky Pick
+9. 558 — Isn't That Kinda Unfair Totally Unfair, Right
+10. 559 — Okay, Yeah, That's Scary. Go on
+11. 560 — What the Hell Are You Doing, Your Majesty
+12. 561 — Absolutely Not
+13. 562 — Oh... So that's a challenge, huh
+14. 563 — Why. You Have the Whole Imperial Guard Fleet, Use One of Their Ships.
+15. 564 — U-Useless...!
+16. 565 — Shameless! Lewd!
+17. 566 — I'm Your Wife Too
+18. 567 — Nope. Not happening
+19. 568 — Yeah, We Should Improve the Livability
+20. 569 — Aren't You Cheating or Something!
+21. 570 — That was definitely not fair!
+22. 571 — No Boo!
+23. 572 — You dumbass, good-for-nothing princess!
+24. 573 — What the hell is that shiny thing!
+25. 574 — Do You Even Need Us Anymore
+26. 575 — I'm Not Interested, So Let's Not Say Anything More About That
+27. 576 — That'd Be Nice, Yeah
+28. 577 — What the Hell are You Saying to a Newlywed Couple…
 
 ## Extras & Side Stories
 
@@ -587,42 +647,3 @@ Novel chapter names for building the novel outline. Chapter files live in `Novel
 5. SS — Everyone's Breakfast
 6. EX Volume 01 — Galatube
 7. EX Volume 02 — Words You Mustn't Say Ever
-8. 539 — 「Choose Something Tasteful」
-9. 540 — 「Don't Say Things That Make Me Anxious」
-10. 541 — 「Oh, There's so Much to Choose From」
-11. 542 — 「That's Not What I Want to Hear!」
-12. 543 — 「Why Can't I Wiiiiin?!」
-13. 544 — 「Huh? What's with Those Reactions?」
-14. 545 — 「I'm Innocent, I Tell You!」
-15. 546 — 「Is This Some Kind of Harassment?」
-16. 547 — 「That's Tyranny!」
-17. 548 — 「I Love Them. Namunamu」
-18. 549 — 「Isn't That a Little Too Low-maintenance…?」
-19. 550 — 「Just the Order I Call People in Can Cause That Much Trouble…?」
-20. 551 — 「I'll Do My Best. Within Reason.」
-21. 552 — 「…You've Completely Stopped Being Human Since I Last Saw You, Huh?」
-22. 553 — 「Would Ye All Cease Calling Me A Bother, I Pray? I Shall Weep, Dost Thou Know?」
-23. 554 — 「Hm? Fufufu, It's A Maiden's Secret」
-24. 555 — 「Oooon… Why!?」
-25. 556 — 「…Huh? Wh-What's with the Sudden Outburst?!」
-26. 557 — 「…That's Quite the Gimmicky Pick」
-27. 558 — 「Isn't That Kinda Unfair? Totally Unfair, Right?」
-28. 559 — 「Okay, Yeah, That's Scary. Go on」
-29. 560 — 「What the Hell Are You Doing, Your Majesty?」
-30. 561 — 「Absolutely Not」
-31. 562 — 「Oh…? So that's a challenge, huh?」
-32. 563 — 「Why. You Have the Whole Imperial Guard Fleet, Use One of Their Ships.」
-33. 564 — 「U-Useless…!?」
-34. 565 — 「Shameless!? Lewd!?」
-35. 566 — 「I'm Your Wife Too」
-36. 567 — 「「「Nope. Not happening」」」
-37. 568 — 「Yeah, We Should Improve the Livability」
-38. 569 — 「Aren't You Cheating or Something!?」
-39. 570 — 「That was definitely not fair!」
-40. 571 — 「No」「Boo!」
-41. 572 — 「You dumbass, good-for-nothing princess!」
-42. 573 — 「What the hell is that shiny thing!?」
-43. 574 — 「Do You Even Need Us Anymore?」
-44. 575 — 「I'm Not Interested, So Let's Not Say Anything More About That」
-45. 576 — 「That'd Be Nice, Yeah」
-46. 577 — 「What the Hell are You Saying to a Newlywed Couple…?」
