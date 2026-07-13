@@ -30,19 +30,27 @@ D expects dogfighting, looting and loitering to use boost and thrusters first. C
 | **Wormholes** | Natural or found shortcuts at specific locations. Same role as gates for system-to-system hops |
 | **Spatial Bypass** | Built fast-travel anchors. Teleport between completed bypasses instead of flying the full route |
 
-Colonies, stations and mapped landmarks are where D expects to **drop out of warp** or exit supralight cleanly. Unknown space with empty charts is a different problem.
+Colonies, stations and mapped landmarks are where D expects to **drop out of supralight** or exit a jump gate cleanly. Unknown space with empty charts is a different problem.
 
 ---
 
-## Warp and arrivals
+## Arrivals and warnings
 
-Hostiles and traffic do not always sit on sensors from the start. Ships **drop out of warp** (or arrive from supralight / a gate) when they enter a sector.
+Hostiles and traffic do not always sit on sensors from the start.
 
-That is the kind of event the Orca's support AI warns about:
+| Situation | Term |
+|-----------|------|
+| **Loitering too long** in one sector | Hostiles **drop out of supralight** into the sector |
+| **Arriving from elsewhere in-system** | Ships **drop out of supralight** |
+| **Arriving from another system** | Ships use a **jump gate** or **wormhole** |
 
-`[Warning. Unidentified ships dropping out of warp.]`
+The Orca's warning when contacts arrive from supralight:
 
-D treats a warp drop as a contact appearing in his space, not a passive scan ping.
+`[Warning. Unidentified ships dropping out of supralight.]`
+
+This is a contact appearing in D's space, not a passive scan ping.
+
+**Never use warp** in Story/ prose. Everspace uses supralight, the Jump Drive, jump gates and wormholes. ES1 also used hyperspace and hyperdrive.
 
 ---
 
@@ -50,7 +58,7 @@ D treats a warp drop as a contact appearing in his space, not a passive scan pin
 
 - **Loitering spawns:** In Everspace, staying in one sector long enough eventually brings hostiles in. D leans on that when he waits for trouble after checking his inventory
 - **Empty charts:** With no map data D can still fly locally but long hops need a destination he does not have yet
-- **Pirate arrival:** The first contact drops out of warp, hails him, then more ships warp in during the standoff
+- **Pirate arrival:** Hostiles drop out of supralight after D loiters. The first hails him, then more drop out during the standoff
 - **After combat:** D will need a trade colony or station. That means finding a jump route, gate or mapped system exit, not wandering at random
 - **Cruise Drive vs combat:** He knows cruise is for quiet runs. Once weapons are online he is on boost and thrusters
 

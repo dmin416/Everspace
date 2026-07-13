@@ -165,7 +165,7 @@ See [`d-assets.md`](d-assets.md) for D's gear, [`Glossary.md`](Glossary.md) for 
 
 - **Credits** are the galaxy currency in Story/. Always capital **C**. See [`Glossary.md`](Glossary.md). Never use Enel in story chapters
 - **Rare materials** not rare metals. See [`Glossary.md`](Glossary.md). Never use rare metal or rare metals in story chapters
-- **Travel** arrivals use **dropping out of warp**, not scans. See [`travel.md`](travel.md) and [`Glossary.md`](Glossary.md)
+- **Travel** arrivals use **dropping out of supralight**, not scans or warp. See [`travel.md`](travel.md) and [`Glossary.md`](Glossary.md)
 
 - **Saanahti** is D's fighting ship. **The Orca** is what he calls it. The game it comes from is **[Everspace]**, not Stella Online. It is a completely different ship from anything that came with the game
 - If source material or older drafts use Krishna or Stella Online, substitute the canonical names

@@ -41,15 +41,15 @@ How ships move and arrive. Full premise in [`travel.md`](travel.md).
 
 | Term | Use in Story/ |
 |------|----------------|
-| **dropping out of warp** | Hostiles or traffic arriving in the sector. AI warning format, not a scan |
-| **warp in** / **warped in** | Same arrival beat. More casual phrasing |
-| **supralight** | Fast travel between locations inside a system |
+| **drop out of supralight** / **dropping out of supralight** | Hostiles or traffic arriving in the sector. AI warning format |
+| **supralight** | Fast travel between locations inside a system via the Jump Drive |
 | **jump gate** / **wormhole** | Standard hops between star systems |
 | **boost** | Short combat sprint. Default dogfight speed-up |
 | **Cruise Drive** | Long charged sprint inside a sector when the path is clear |
 
-- **Never describe the initial contact as a scan.** The Orca warns about **ships dropping out of warp**
-- Loitering in one sector long enough eventually brings hostiles. See [`travel.md`](travel.md)
+- **Never use warp** in Story/ prose
+- **Never describe the initial contact as a scan.** The Orca warns **Unidentified ships dropping out of supralight**
+- Loitering in one sector long enough eventually brings hostiles dropping out of supralight. See [`travel.md`](travel.md)
 
 ---
 
